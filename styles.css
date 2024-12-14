@@ -1,0 +1,54 @@
+body {
+  background-color: #99caf2;
+}
+
+h1 {
+  font-size: 75px;
+  color: #274472;
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+iframe {
+  border-color: #ffffff;
+  border-radius: 20px;
+}
+p {
+  color: #274472;
+  font-family: "Young Serif", serif;
+}
+
+p.mix {
+  border-style: dotted dashed solid double;
+}
+button {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: "Young Serif", serif;
+  border-radius: 15px;
+  background: #274472;
+  padding: 5px;
+  width: 400px;
+  height: 50px;
+}
+h2 {
+  font-size: 40px;
+  font-family: "Young Serif", serif;
+  font-weight: 40;
+  font-style: normal;
+  color: #274472;
+}
+h3 {
+  font-size: 20px;
+  font-family: "Young Serif", serif;
+  font-weight: 40;
+  font-style: normal;
+  color: #274472;
+}
+footer {
+  font-size: 10px;
+  font-family: "Young Serif", serif;
+  font-weight: 40;
+  font-style: normal;
+  color: #274472;
+}
